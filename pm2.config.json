@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "name": "Nuxtjs_yzn",
+        "script": "npm",
+        "args": "start"
+      }
+    ]
+  }
+  
