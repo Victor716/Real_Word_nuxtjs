@@ -117,4 +117,4 @@ External IP: 42.192.138.208:3000
 
   - 1. Generate tokens: https://github.com/settings/tokens (github -> profile -> developer settings -> Personal access tokens)
   - 2. Configure the token to the project Secrets
-  - 3. token: 91040e56e6a9e5d11302ad95f03df05c9bc38d6b
+  - 3. Enter repo -> settings -> Secrets -> add secrets -> paste the token
